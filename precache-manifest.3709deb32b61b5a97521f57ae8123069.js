@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a7420d3fa9c3ee6a183c3540e4624bd",
+    "revision": "f590f83c8ebb25203377885d87109635",
     "url": "https://gracechiamaka.github.io/Sample-React-App/index.html"
   },
   {
-    "revision": "ca50fc0c3f28dd116c6c",
+    "revision": "a3563695b79705a3bfbf",
     "url": "https://gracechiamaka.github.io/Sample-React-App/static/css/main.77e8d7d2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://gracechiamaka.github.io/Sample-React-App/static/js/2.ec98932c.chunk.js"
   },
   {
-    "revision": "ca50fc0c3f28dd116c6c",
-    "url": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.ce3a860e.chunk.js"
+    "revision": "a3563695b79705a3bfbf",
+    "url": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.88827b8f.chunk.js"
   },
   {
     "revision": "e29a4feffc72a61ce668",
