@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sample-React-App/static/css/main.77e8d7d2.chunk.css",
-    "main.js": "/Sample-React-App/static/js/main.09394d4d.chunk.js",
-    "main.js.map": "/Sample-React-App/static/js/main.09394d4d.chunk.js.map",
-    "runtime~main.js": "/Sample-React-App/static/js/runtime~main.7a66ee60.js",
-    "runtime~main.js.map": "/Sample-React-App/static/js/runtime~main.7a66ee60.js.map",
-    "static/js/2.ec98932c.chunk.js": "/Sample-React-App/static/js/2.ec98932c.chunk.js",
-    "static/js/2.ec98932c.chunk.js.map": "/Sample-React-App/static/js/2.ec98932c.chunk.js.map",
-    "index.html": "/Sample-React-App/index.html",
-    "precache-manifest.0f2de215d88bc03415df47f14ac541a4.js": "/Sample-React-App/precache-manifest.0f2de215d88bc03415df47f14ac541a4.js",
-    "service-worker.js": "/Sample-React-App/service-worker.js",
-    "static/css/main.77e8d7d2.chunk.css.map": "/Sample-React-App/static/css/main.77e8d7d2.chunk.css.map",
-    "static/media/logo.svg": "/Sample-React-App/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://gracechiamaka.github.io/Sample-React-App/static/css/main.77e8d7d2.chunk.css",
+    "main.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.ce3a860e.chunk.js",
+    "main.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.ce3a860e.chunk.js.map",
+    "runtime~main.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/runtime~main.debcdb91.js",
+    "runtime~main.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/runtime~main.debcdb91.js.map",
+    "static/js/2.ec98932c.chunk.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/2.ec98932c.chunk.js",
+    "static/js/2.ec98932c.chunk.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/2.ec98932c.chunk.js.map",
+    "index.html": "https://gracechiamaka.github.io/Sample-React-App/index.html",
+    "precache-manifest.c262ad074b8323164fe7f8d01fb87c25.js": "https://gracechiamaka.github.io/Sample-React-App/precache-manifest.c262ad074b8323164fe7f8d01fb87c25.js",
+    "service-worker.js": "https://gracechiamaka.github.io/Sample-React-App/service-worker.js",
+    "static/css/main.77e8d7d2.chunk.css.map": "https://gracechiamaka.github.io/Sample-React-App/static/css/main.77e8d7d2.chunk.css.map",
+    "static/media/logo.svg": "https://gracechiamaka.github.io/Sample-React-App/static/media/logo.5d5d9eef.svg"
   }
 }
