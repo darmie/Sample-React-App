@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://gracechiamaka.github.io/Sample-React-App/static/css/main.77e8d7d2.chunk.css",
-    "main.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.a2a3f035.chunk.js",
-    "main.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/main.a2a3f035.chunk.js.map",
-    "runtime~main.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/runtime~main.debcdb91.js",
-    "runtime~main.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/runtime~main.debcdb91.js.map",
-    "static/js/2.ec98932c.chunk.js": "https://gracechiamaka.github.io/Sample-React-App/static/js/2.ec98932c.chunk.js",
-    "static/js/2.ec98932c.chunk.js.map": "https://gracechiamaka.github.io/Sample-React-App/static/js/2.ec98932c.chunk.js.map",
-    "index.html": "https://gracechiamaka.github.io/Sample-React-App/index.html",
-    "precache-manifest.a6d6b7da30ec8f0a350e84ef7fb20cbc.js": "https://gracechiamaka.github.io/Sample-React-App/precache-manifest.a6d6b7da30ec8f0a350e84ef7fb20cbc.js",
-    "service-worker.js": "https://gracechiamaka.github.io/Sample-React-App/service-worker.js",
-    "static/css/main.77e8d7d2.chunk.css.map": "https://gracechiamaka.github.io/Sample-React-App/static/css/main.77e8d7d2.chunk.css.map",
-    "static/media/logo.svg": "https://gracechiamaka.github.io/Sample-React-App/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Sample-React-App/static/css/main.77e8d7d2.chunk.css",
+    "main.js": "/Sample-React-App/static/js/main.d64528b2.chunk.js",
+    "main.js.map": "/Sample-React-App/static/js/main.d64528b2.chunk.js.map",
+    "runtime~main.js": "/Sample-React-App/static/js/runtime~main.7a66ee60.js",
+    "runtime~main.js.map": "/Sample-React-App/static/js/runtime~main.7a66ee60.js.map",
+    "static/js/2.ec98932c.chunk.js": "/Sample-React-App/static/js/2.ec98932c.chunk.js",
+    "static/js/2.ec98932c.chunk.js.map": "/Sample-React-App/static/js/2.ec98932c.chunk.js.map",
+    "index.html": "/Sample-React-App/index.html",
+    "precache-manifest.69c1174085aece3fdbd006c9bca2077a.js": "/Sample-React-App/precache-manifest.69c1174085aece3fdbd006c9bca2077a.js",
+    "service-worker.js": "/Sample-React-App/service-worker.js",
+    "static/css/main.77e8d7d2.chunk.css.map": "/Sample-React-App/static/css/main.77e8d7d2.chunk.css.map",
+    "static/media/logo.svg": "/Sample-React-App/static/media/logo.5d5d9eef.svg"
   }
 }
