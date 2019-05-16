@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://darmie.github.io/Sample-React-App/static/css/main.5cb0c054.chunk.css",
-    "main.js": "https://darmie.github.io/Sample-React-App/static/js/main.9dafb21f.chunk.js",
-    "main.js.map": "https://darmie.github.io/Sample-React-App/static/js/main.9dafb21f.chunk.js.map",
+    "main.js": "https://darmie.github.io/Sample-React-App/static/js/main.22cdd1dd.chunk.js",
+    "main.js.map": "https://darmie.github.io/Sample-React-App/static/js/main.22cdd1dd.chunk.js.map",
     "runtime~main.js": "https://darmie.github.io/Sample-React-App/static/js/runtime~main.2d6cdf1e.js",
     "runtime~main.js.map": "https://darmie.github.io/Sample-React-App/static/js/runtime~main.2d6cdf1e.js.map",
     "static/js/2.55064965.chunk.js": "https://darmie.github.io/Sample-React-App/static/js/2.55064965.chunk.js",
     "static/js/2.55064965.chunk.js.map": "https://darmie.github.io/Sample-React-App/static/js/2.55064965.chunk.js.map",
     "index.html": "https://darmie.github.io/Sample-React-App/index.html",
-    "precache-manifest.dfca3e8fb04ae795e89119c4f2755104.js": "https://darmie.github.io/Sample-React-App/precache-manifest.dfca3e8fb04ae795e89119c4f2755104.js",
+    "precache-manifest.d6514a83bdcc6b1a4c7b50a07e493a44.js": "https://darmie.github.io/Sample-React-App/precache-manifest.d6514a83bdcc6b1a4c7b50a07e493a44.js",
     "service-worker.js": "https://darmie.github.io/Sample-React-App/service-worker.js",
     "static/css/main.5cb0c054.chunk.css.map": "https://darmie.github.io/Sample-React-App/static/css/main.5cb0c054.chunk.css.map",
     "static/media/logo.svg": "https://darmie.github.io/Sample-React-App/static/media/logo.5d5d9eef.svg"
