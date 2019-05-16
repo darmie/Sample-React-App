@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://darmie.github.io/Sample-React-App/static/css/main.5cb0c054.chunk.css",
+    "main.js": "https://darmie.github.io/Sample-React-App/static/js/main.fbecf16a.chunk.js",
+    "main.js.map": "https://darmie.github.io/Sample-React-App/static/js/main.fbecf16a.chunk.js.map",
+    "runtime~main.js": "https://darmie.github.io/Sample-React-App/static/js/runtime~main.2d6cdf1e.js",
+    "runtime~main.js.map": "https://darmie.github.io/Sample-React-App/static/js/runtime~main.2d6cdf1e.js.map",
+    "static/js/2.f2ee8219.chunk.js": "https://darmie.github.io/Sample-React-App/static/js/2.f2ee8219.chunk.js",
+    "static/js/2.f2ee8219.chunk.js.map": "https://darmie.github.io/Sample-React-App/static/js/2.f2ee8219.chunk.js.map",
+    "index.html": "https://darmie.github.io/Sample-React-App/index.html",
+    "precache-manifest.4cd1f23e55294d7b429c3ef040fecce4.js": "https://darmie.github.io/Sample-React-App/precache-manifest.4cd1f23e55294d7b429c3ef040fecce4.js",
+    "service-worker.js": "https://darmie.github.io/Sample-React-App/service-worker.js",
+    "static/css/main.5cb0c054.chunk.css.map": "https://darmie.github.io/Sample-React-App/static/css/main.5cb0c054.chunk.css.map",
+    "static/media/logo.svg": "https://darmie.github.io/Sample-React-App/static/media/logo.5d5d9eef.svg"
+  }
+}
