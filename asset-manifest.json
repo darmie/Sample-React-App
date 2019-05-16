@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sample-React-App/static/css/main.5cb0c054.chunk.css",
-    "main.js": "/Sample-React-App/static/js/main.5dafc580.chunk.js",
-    "main.js.map": "/Sample-React-App/static/js/main.5dafc580.chunk.js.map",
-    "runtime~main.js": "/Sample-React-App/static/js/runtime~main.7a66ee60.js",
-    "runtime~main.js.map": "/Sample-React-App/static/js/runtime~main.7a66ee60.js.map",
-    "static/js/2.b41502e9.chunk.js": "/Sample-React-App/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/Sample-React-App/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/Sample-React-App/index.html",
-    "precache-manifest.3aa2b735552dc6867f85aa659ca62c3e.js": "/Sample-React-App/precache-manifest.3aa2b735552dc6867f85aa659ca62c3e.js",
-    "service-worker.js": "/Sample-React-App/service-worker.js",
-    "static/css/main.5cb0c054.chunk.css.map": "/Sample-React-App/static/css/main.5cb0c054.chunk.css.map",
-    "static/media/logo.svg": "/Sample-React-App/static/media/logo.5d5d9eef.svg"
+    "main.css": "http://localhost:3000/static/css/main.5cb0c054.chunk.css",
+    "main.js": "http://localhost:3000/static/js/main.2b1a069a.chunk.js",
+    "main.js.map": "http://localhost:3000/static/js/main.2b1a069a.chunk.js.map",
+    "runtime~main.js": "http://localhost:3000/static/js/runtime~main.8a6cbfe7.js",
+    "runtime~main.js.map": "http://localhost:3000/static/js/runtime~main.8a6cbfe7.js.map",
+    "static/js/2.b10d7886.chunk.js": "http://localhost:3000/static/js/2.b10d7886.chunk.js",
+    "static/js/2.b10d7886.chunk.js.map": "http://localhost:3000/static/js/2.b10d7886.chunk.js.map",
+    "index.html": "http://localhost:3000/index.html",
+    "precache-manifest.1b916037d0432161f194737195a35c9b.js": "http://localhost:3000/precache-manifest.1b916037d0432161f194737195a35c9b.js",
+    "service-worker.js": "http://localhost:3000/service-worker.js",
+    "static/css/main.5cb0c054.chunk.css.map": "http://localhost:3000/static/css/main.5cb0c054.chunk.css.map",
+    "static/media/logo.svg": "http://localhost:3000/static/media/logo.5d5d9eef.svg"
   }
 }
